@@ -1,1 +1,1 @@
-Puts "Hello World!"
+uts "Hello World!"
